@@ -178,7 +178,7 @@ Further resources:
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
 
 <a name="c"></a>
-## C
+## C 
 
 <a name="c-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
